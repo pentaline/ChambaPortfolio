@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ChambaPortfolio/static/css/main.45aa333e.chunk.css",
-    "main.js": "/ChambaPortfolio/static/js/main.ff4a2edd.chunk.js",
-    "main.js.map": "/ChambaPortfolio/static/js/main.ff4a2edd.chunk.js.map",
-    "runtime-main.js": "/ChambaPortfolio/static/js/runtime-main.c8441240.js",
-    "runtime-main.js.map": "/ChambaPortfolio/static/js/runtime-main.c8441240.js.map",
-    "static/js/2.91a4776b.chunk.js": "/ChambaPortfolio/static/js/2.91a4776b.chunk.js",
-    "static/js/2.91a4776b.chunk.js.map": "/ChambaPortfolio/static/js/2.91a4776b.chunk.js.map",
-    "index.html": "/ChambaPortfolio/index.html",
-    "precache-manifest.9a6f7cc1f8388a2ec9ff434f762a5d1b.js": "/ChambaPortfolio/precache-manifest.9a6f7cc1f8388a2ec9ff434f762a5d1b.js",
-    "service-worker.js": "/ChambaPortfolio/service-worker.js",
-    "static/css/main.45aa333e.chunk.css.map": "/ChambaPortfolio/static/css/main.45aa333e.chunk.css.map",
-    "static/js/2.91a4776b.chunk.js.LICENSE.txt": "/ChambaPortfolio/static/js/2.91a4776b.chunk.js.LICENSE.txt",
-    "static/media/stylesheet.css": "/ChambaPortfolio/static/media/code-background.0a57ef65.jpg",
-    "static/media/logo-large.png": "/ChambaPortfolio/static/media/logo-large.c01665a9.png"
+    "main.css": "/ChambaPortfolio.github.io/static/css/main.a02be82b.chunk.css",
+    "main.js": "/ChambaPortfolio.github.io/static/js/main.46b70d32.chunk.js",
+    "main.js.map": "/ChambaPortfolio.github.io/static/js/main.46b70d32.chunk.js.map",
+    "runtime-main.js": "/ChambaPortfolio.github.io/static/js/runtime-main.cfc7b50b.js",
+    "runtime-main.js.map": "/ChambaPortfolio.github.io/static/js/runtime-main.cfc7b50b.js.map",
+    "static/js/2.91a4776b.chunk.js": "/ChambaPortfolio.github.io/static/js/2.91a4776b.chunk.js",
+    "static/js/2.91a4776b.chunk.js.map": "/ChambaPortfolio.github.io/static/js/2.91a4776b.chunk.js.map",
+    "index.html": "/ChambaPortfolio.github.io/index.html",
+    "precache-manifest.e0a25875d5bca33a0c0d3fa9eac87114.js": "/ChambaPortfolio.github.io/precache-manifest.e0a25875d5bca33a0c0d3fa9eac87114.js",
+    "service-worker.js": "/ChambaPortfolio.github.io/service-worker.js",
+    "static/css/main.a02be82b.chunk.css.map": "/ChambaPortfolio.github.io/static/css/main.a02be82b.chunk.css.map",
+    "static/js/2.91a4776b.chunk.js.LICENSE.txt": "/ChambaPortfolio.github.io/static/js/2.91a4776b.chunk.js.LICENSE.txt",
+    "static/media/stylesheet.css": "/ChambaPortfolio.github.io/static/media/code-background.0a57ef65.jpg",
+    "static/media/logo-large.png": "/ChambaPortfolio.github.io/static/media/logo-large.c01665a9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8441240.js",
+    "static/js/runtime-main.cfc7b50b.js",
     "static/js/2.91a4776b.chunk.js",
-    "static/css/main.45aa333e.chunk.css",
-    "static/js/main.ff4a2edd.chunk.js"
+    "static/css/main.a02be82b.chunk.css",
+    "static/js/main.46b70d32.chunk.js"
   ]
 }
