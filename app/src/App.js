@@ -12,7 +12,7 @@ function App() {
     <NavBar/>
     <div className="spacer"></div>
     <main>
-      <ContactCard />
+      <ContactCard name="Max Chamberlain" />
       <ContactCard name="Jacob Manis" />
       <br/>
       <div class="apply w3-animate-opacity">
